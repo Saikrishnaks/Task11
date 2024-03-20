@@ -1,0 +1,20 @@
+VM creating Instances
+=====================
+
+Log in to your AWS Account:
+Access the Amazon EC2 console
+Launch an Instance:
+From the EC2 console dashboard, select "Launch Instance."
+Choose "Quick Start" and then select "Amazon Linux" as your operating system.
+select no of instances
+create key pair
+then click launch instance
+click instances
+select instance u created and and check it
+here we get the ip of our vm
+we get details reagarding to this,and change the inbound rules,here select type range as All ICMB IPv4,source as Anywere IPv4 
+Choose a key pair that you created for login.
+Review and adjust network settings, security groups, and other configurations as needed.
+Connect to Your Instance:
+After launching your instance, connect to it using EC2 Instance Connect or other methods based on your operating system.
+Terminate Your Instance .
